@@ -1,2 +1,2 @@
 # PG-FS
-Hybrid Gate-Pulse level fault simulations based on pulse-level fault models using QuTip
+A Hybrid Gate-Pulse level fault simulation toolbox based on pulse-level fault models using QuTip
